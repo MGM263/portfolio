@@ -6,6 +6,7 @@ I have experience in cloud computing, low-code platforms, AI Tools/Agents, and t
 
 ## Skills
 - Cloud Computing
+- AI & Automation
 - GitHub & Git
 - Odoo Ecosystem Technical/Functional expert (Developing and Consultancy)
 - Microsoft Power Platform
